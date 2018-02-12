@@ -1,0 +1,14 @@
+{
+  "name": "week3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Or Fleisher <contact@orfleisher.com>",
+  "license": "MIT",
+  "dependencies": {
+    "three": "^0.89.0"
+  }
+}
