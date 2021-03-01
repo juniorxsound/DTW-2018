@@ -9,6 +9,6 @@
   "author": "Or Fleisher <contact@orfleisher.com>",
   "license": "MIT",
   "dependencies": {
-    "three": "^0.89.0"
+    "three": "^0.125.0"
   }
 }
