@@ -10,7 +10,7 @@ decorator==4.2.1
 entrypoints==0.2.3
 futures==3.1.1
 goodlogging==1.0.1
-html5lib==0.9999999
+html5lib==0.99999999
 idna==2.6
 ipykernel==4.8.0
 ipython==6.2.1
